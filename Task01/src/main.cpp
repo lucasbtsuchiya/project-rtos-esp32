@@ -1,7 +1,8 @@
 /********************************************************************************
- * Estudos RTOS
- *Exemplo de criação e utilização de Task
- * 
+ * Eng Lucas Buzetto Tsuchiya
+ * RTOS Studies
+ * Exemplo de criação e utilização de Task
+ *
 ********************************************************************************/
 //Biblioteca da plataforma arduino
 #include <Arduino.h>
